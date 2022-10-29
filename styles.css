@@ -1,0 +1,80 @@
+https://omshelke2.github.io/ssminfotech/
+.firstImage{
+    height: 200px;
+    width:100%;
+              }
+
+.sirImage{
+     
+     height:170px;
+     width:170px;
+     margin-top:20px;
+     margin-left: 160px;
+}
+
+.sirImage{
+justify-content: center;
+}
+
+.secondImage{
+    margin-left:3%;
+}
+
+.pricing{
+color: #099;
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+ 
+ 
+}
+.director{
+margin-top:5%;
+margin-left:45%;
+padding-bottom:0;
+}
+
+.owner{
+margin: auto;
+  width: 60%;
+margin-left:25%;
+padding-top:0;
+}
+
+.contactUs{
+margin-top:10%;
+width: 30%;
+margin-left:40%;
+}
+
+
+.qrImage{
+height:150px;
+width:150px;
+margin-left:38%;
+}
+
+.qrCaption{
+width:80%;
+margin-left:25%;
+}
+
+.whatsappLink{
+color:#25D366;
+}
+
+hr{
+width:15%;
+margin:auto;
+margin-top:10%;
+margin-bottom:10%;
+
+
+}
+.b1{
+
+border-width:2px;
+border-style:dotted;
+}
