@@ -67,7 +67,8 @@ color:#25D366;
 
 hr{
 width:15%;
-margin:auto;
+border-stle: dotted none none none;
+border-top-width:5px;    
 margin-top:10%;
 margin-bottom:10%;
 
